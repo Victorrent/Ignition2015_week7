@@ -1,6 +1,6 @@
-- What is a scripting language?
-- What is a variable?
-- What is a string? An array? A boolean?
-- What are events?
-- Link to codeacademy profile: 
+- What is a scripting language? A language which can support scripts table to be executed at runtime instead of being compiled by the processor.
+- What is a variable? A variable is a symbol or name that stands for a value.
+- What is a string? An array? A boolean? A string is usually a group of characters strung together as one given object, often within quotes. An array is used to store a list of values in a single variable, indices start at 0, can use numbers, strings, booleans, other arrays. A boolean is a comparison data type which can evaluate to true or false.
+- What are events? An event is an action or occurence detected by a program such as a mouse click or a system occurence.
+- Link to codeacademy profile: http://www.codecademy.com/arrayPro07910
 - Code for Project Euler solution in file `project_euler_1.js`.
